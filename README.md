@@ -72,4 +72,4 @@ Analytical solutions (Arrhenius rate constant k = A·exp(−Eₐ/RT)):
 
 ## Author
 
-Chrysler Steve — Chemical Engineering, Final Year
+Chrysler Steve — Petrochemical Engineering, Final Year
